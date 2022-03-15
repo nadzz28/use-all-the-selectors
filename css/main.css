@@ -29,3 +29,7 @@ p > .dfn {
 h2 + strong {
   color: #fff;
 }
+
+a:not(.no-highlight) {
+  background-color: #719e07;
+}
