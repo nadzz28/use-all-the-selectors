@@ -38,6 +38,6 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-ol:nth-of-type(3) {
+ol:first-of-type {
   color: #719e47;
 }
