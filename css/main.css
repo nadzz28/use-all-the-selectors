@@ -21,3 +21,7 @@ main {
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
+
+p > .dfn {
+  background-color: #b58900;
+}
