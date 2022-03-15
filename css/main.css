@@ -50,6 +50,6 @@ ol li:last-child {
   background-color: #657ba3;
 }
 
-.types li:nth-child(2) {
+.types li:nth-child(even) {
   background-color: #586e75;
 }
