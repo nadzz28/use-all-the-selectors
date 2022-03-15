@@ -38,6 +38,6 @@ a:not(.no-highlight) {
   background-color: #2694d8;
 }
 
-h2:nth-of-type(1) {
+ol:nth-child(1) {
   color: #719e47;
 }
