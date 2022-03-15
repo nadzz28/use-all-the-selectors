@@ -33,3 +33,7 @@ h2 + strong {
 a:not(.no-highlight) {
   background-color: #719e07;
 }
+
+[Wikipedia: Fruit] {
+  background-color: #2694d8;
+}
