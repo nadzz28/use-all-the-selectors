@@ -25,3 +25,7 @@ main {
 p > .dfn {
   background-color: #b58900;
 }
+
+h2 + strong {
+  color: #fff;
+}
